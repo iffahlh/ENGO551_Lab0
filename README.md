@@ -6,7 +6,7 @@ This website summarizes 6 fun facts for each place I have lived in at some point
 - Chestermere, AB
 - Calgary, AB
 
-This video walks through the website and source code. HTML, CSS, Sass, and Bootstrap had been utilized for this project. 
+[This video](https://youtu.be/zJg5ifE515o) walks through the website and source code. HTML, CSS, Sass, and Bootstrap had been utilized for this project. 
 
 Below is a summary of all files and folders contained within this repository:
 
